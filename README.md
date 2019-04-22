@@ -1,18 +1,15 @@
 # Solutions to CS231n assignments
-*Version: Spring 2019*
+**Version: Spring 2019**
 
 This repository gathers my personal solutions to the CS231n assignments for the Spring 2019 offering. [CS231n](http://cs231n.github.io/) is a course on "Convolutional Neural Networks for Visual Recognition" given at Stanford University.
 
-My solutions are compatible with *Python 3.7*. I used *PyTorch 1.0* as a Deep Learning framework.
+My solutions are compatible with **Python 3.7*. I used **PyTorch 1.0** as a Deep Learning framework.
 
 ## Original assignments
 You can download the original assignments, without the solutions, here:
-* Assignment 1:
-  * Spring 2019: http://cs231n.github.io/assignments2019/assignment1
-* Assignment 2:
-  * Spring 2019: http://cs231n.github.io/assignments2019/assignment2
-* Assignment 3:
-  * Spring 2019: http://cs231n.github.io/assignments2019/assignment3
+* Assignment 1: http://cs231n.github.io/assignments2019/assignment1
+* Assignment 2: http://cs231n.github.io/assignments2019/assignment2
+* Assignment 3: http://cs231n.github.io/assignments2019/assignment3
 
 ## Course content
 If you want to learn the theory behind these assignments, you can find the course notes on the [CS231n website] (http://cs231n.github.io/).
