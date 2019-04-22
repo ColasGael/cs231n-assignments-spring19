@@ -14,8 +14,7 @@ Download the unsolved assignments here:
 ## Course content
 If you want to learn the theory behind these assignments, you can find the course notes on the [CS231n website] (http://cs231n.github.io/).
 
-You can also watch the lecture videos from the Spring 2017 offering of this course:
-[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSF-lx2zBA1-bCfZRDZYKZYhHIQfLRPCc_LFe4jMO3gv5Qma0Ag' width=300>](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv "CS231n 2017")
+You can also watch the lecture videos from the Spring 2017 offering of this course on [YouTube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 Finally GitHub user "mbadry1" put together a very clever summary of the lectures in this [repository](https://github.com/mbadry1/CS231n-2017-Summary). Don't forget to thank him if you find this summary useful!
 
