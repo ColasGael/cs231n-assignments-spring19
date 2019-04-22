@@ -5,8 +5,8 @@ This repository gathers my personal solutions to the CS231n assignments for the 
 
 My solutions are compatible with **Python 3.7*. I used **PyTorch 1.0** as a Deep Learning framework.
 
-## Original assignments
-You can download the original assignments, without the solutions, here:
+## Unsolved assignments
+Download the unsolved assignments here:
 * Assignment 1: http://cs231n.github.io/assignments2019/assignment1
 * Assignment 2: http://cs231n.github.io/assignments2019/assignment2
 * Assignment 3: http://cs231n.github.io/assignments2019/assignment3
