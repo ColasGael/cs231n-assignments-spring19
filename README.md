@@ -12,7 +12,7 @@ Download the unsolved assignments here:
 * Assignment 3: http://cs231n.github.io/assignments2019/assignment3
 
 ## Course content
-If you want to learn the theory behind these assignments, you can find the course notes on the [CS231n website] (http://cs231n.github.io/).
+If you want to learn the theory behind these assignments, you can find the course notes on the [CS231n website](http://cs231n.github.io/).
 
 You can also watch the lecture videos from the Spring 2017 offering of this course on [YouTube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
