@@ -22,14 +22,20 @@ Finally GitHub user "mbadry1" put together a very clever summary of the lectures
 * For all the assignments, first follow the the CS231n [setup instructions](http://cs231n.github.io/setup-instructions/) to install the necessary virtual environment.
 * If you want to work on Google Cloud, you can follow their tutorial on this [repository](https://github.com/cs231n/gcloud/).
 * For **assignment 1 and 2**: to download the CIFAR-10 datasets needed for the assignments, run the following from the "assignment1" directory:
-`cd cs231n/datasets
-./get_datasets.sh`
+```
+cd cs231n/datasets 
+./get_datasets.sh
+```
 * For **assignment2**, also run the following from the "assignment2" directory:
-`cd cs231n
-python setup.py build_ext --inplace`
+```
+cd cs231n
+python setup.py build_ext --inplace
+```
 * For **assignment 3**: to download the COCO datasets needed for the assignment, run the following from the "assignment3" directory:
-`cd cs231n/datasets
-./get_assignment3_data.sh`
+```
+cd cs231n/datasets\\
+./get_assignment3_data.sh
+```
 
 ## Disclaimer
 The goal of this repository is to help students interested in learning more about Computer Vision. Doing these assignments is a valuable way to learn the concepts and understand the implementations of Deep Learning methods. This repository provides a way to check the solutions.
